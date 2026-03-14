@@ -84,25 +84,25 @@ The dataset was clean with zero missing values. Three fixes were applied:
 ## 📊 EDA Charts
 
 ### Revenue by Category & Store
-![Chart 1]images/python%20chart1.png
+![Chart 1] (images/python%20chart1.png)
 
 ### Monthly Revenue Trend
-![Chart 2]images/python%20chart2.png
+![Chart 2](images/python%20chart2.png)
 
 ### Correlation Matrix & Discount Analysis
-![Chart 3](images/chart3_correlation.png)
+![Chart 3](images/python%20chart3.png)
 
 ### Weather & Season Impact
-![Chart 4](images/chart4_external.png)
+![Chart 4](images/python%20chart4.png)
 
 ### Promotions Analysis
-![Chart 5](images/chart5_promotions.png)
+![Chart 5](images/python%20chart5.png)
 
 ### Stockout Risk & Inventory Utilization
-![Chart 6](images/chart6_inventory.png)
+![Chart 6](images/python%20chart6.png)
 
 ### Key Insights Summary
-![Chart 7](images/chart7_summary.png)
+![Chart 7](images/python%20chart7.png)
 
 ---
 
