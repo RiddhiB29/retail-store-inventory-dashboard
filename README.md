@@ -47,7 +47,7 @@ The dataset was clean with zero missing values. Three fixes were applied:
 ## 📈 Dashboard Pages
 
 ### Page 1 — Sales & Revenue Overview
-![Dashboard](images/dashboard_pdf.pdf)
+![Dashboard](images/dashboard%20pdf.pdf)
 
 | KPI | Value |
 |-----|-------|
