@@ -84,10 +84,10 @@ The dataset was clean with zero missing values. Three fixes were applied:
 ## 📊 EDA Charts
 
 ### Revenue by Category & Store
-![Chart 1](images/chart1_revenue.png)
+![Chart 1]images/python%20chart1.png
 
 ### Monthly Revenue Trend
-![Chart 2](images/chart2_trend.png)
+![Chart 2]images/python%20chart2.png
 
 ### Correlation Matrix & Discount Analysis
 ![Chart 3](images/chart3_correlation.png)
